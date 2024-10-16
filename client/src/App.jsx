@@ -53,9 +53,9 @@ function App() {
               <div className="live-event">
                 <LiveEvent />
               </div>
-              <div className="sports">
+              {/* <div className="sports">
                 <Sports />
-              </div>
+              </div> */}
               {/* <div className="athelete-performance">
                 <AtheletePerformance />
               </div> */}
